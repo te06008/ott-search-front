@@ -6,6 +6,7 @@ import HomePage from "./pages/Home";
 import Main from "./pages/Main";
 import Detail from "./pages/Detail";
 
+// commit test
 function WebRouter() {
   return (
     <BrowserRouter>
